@@ -40,19 +40,19 @@ This project focuses on React fundamentals, state management, and building a cle
 - Generates unique IDs for each task  
 
 ---
- ## 📦 Installation & Setup
+## 📦 Installation & Setup
 
 1. Install dependencies
    
    ```bash
    npm install
----
-##   Install additional packages
-
-  ```bash
-  npm install uuid
-  npm install @mui/material @emotion/react @emotion/styled
-
----
-##   Install additional packages
-
+3. Install additional packages
+   
+   ```bash
+    npm install uuid
+    npm install @mui/material @emotion/react @emotion/styled
+5. Run the project
+   
+   ```bash
+   npm run dev
+   
