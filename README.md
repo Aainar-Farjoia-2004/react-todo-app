@@ -43,9 +43,16 @@ This project focuses on React fundamentals, state management, and building a cle
  ## 📦 Installation & Setup
 
 1. Install dependencies
+   
    ```bash
    npm install
 ---
 ##   Install additional packages
-npm install uuid
-npm install @mui/material @emotion/react @emotion/styled
+
+  ```bash
+  npm install uuid
+  npm install @mui/material @emotion/react @emotion/styled
+
+---
+##   Install additional packages
+
