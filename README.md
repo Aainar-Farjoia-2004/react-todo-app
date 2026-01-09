@@ -55,4 +55,33 @@ This project focuses on React fundamentals, state management, and building a cle
    
    ```bash
    npm run dev
+
+---
+
+## 🌱 What I Learned
+- Managing application state in React  
+- Building reusable components  
+- Using Material UI for faster UI development  
+- Handling unique IDs with UUID  
+- Working with Vite for modern React projects  
+
+---
+
+## 📌 Future Improvements
+- Edit existing tasks  
+- Persist data using localStorage  
+- Add task filters (All / Completed / Pending)  
+- Improve accessibility (ARIA support)  
+
+---
+
+## 🙌 Acknowledgements
+- Built with **React** and **Vite**  
+- UI components by **Material UI**  
+
+---
+
+## 📬 Contact
+If you like this project or have suggestions, feel free to connect!
+
    
