@@ -6,9 +6,11 @@ This project focuses on React fundamentals, state management, and building a cle
 ---
 
 ## 🌍 Live Preview
- 
- 
+
+ 🔗 https://uuidtasks.netlify.app/
+
 ---
+
 
 ## 🚀 Features
 - ➕ Add new tasks  
